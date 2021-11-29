@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @artem-tok
-- 👀 I’m interested in Data Science and Bioinformatics
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m Artem T (@artem-tok)
+- 👀 I’m interested in Data Science and Bioinformatics, Probability Theory and Statistic
+- 🌱 I’m currently learning Data Science, including Machine Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me artemt24@gmail.com
+- 📫 How to reach me: artemt24@gmail.com
 
 <!---
 artem-tok/artem-tok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
